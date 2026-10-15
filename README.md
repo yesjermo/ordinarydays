@@ -1,6 +1,6 @@
 # ordinary days / yesjermo
 
-Unzip and open index.html in a browser. Select home or enter for objects.html.
+(https://yesjermo.github.io/ordinarydays/)
 
 ## Typing and sound
 The index requests typing sound automatically. Browser autoplay rules may keep audio suspended until the first click or keypress. The sound off control appears only after the loading screen and mutes immediately. Turning sound back on replays the typed notes. Audio is generated locally with Web Audio; no external audio files, network requests or tracking. The first click or keypress unlocks audio if the browser requires a user gesture.
